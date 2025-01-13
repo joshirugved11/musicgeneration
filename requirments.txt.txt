@@ -1,0 +1,31 @@
+Installed libraries for Music Generation project
+
+1. Torch/Pytorch 
+	
+Purpose - Deep learning framework for model building and training.
+Use Case: Custom music generation models, training deep learning architectures.
+
+2. Transformers (Hugging Face)
+
+Purpose: Provides pretrained models for language and audio tasks.
+Use Case: Generate music using pretrained models.
+
+3. Librosa
+
+Purpose: Audio analysis and feature extraction.
+Use Case: Feature extraction, waveform visualization, audio processing.
+
+4. NumPy
+
+Purpose: Numerical operations and matrix manipulation.
+Use Case: Handling audio data arrays, matrix operations for deep learning models.
+
+5. Matplotlib
+
+Purpose: Data visualization for music analysis.
+Use Case: Visualizing audio waveforms, spectrograms, and training curves.
+
+6. Pydub
+
+Purpose: Audio file conversion and manipulation.
+Use Case: Converting between audio formats, trimming and merging audio files.
